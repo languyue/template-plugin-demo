@@ -1,7 +1,6 @@
 package com.windy.demo;
 
 import com.alibaba.fastjson.JSON;
-import com.alibaba.fastjson.JSONObject;
 import com.zj.plugin.loader.ExecuteDetailVo;
 import com.zj.plugin.loader.Feature;
 import com.zj.plugin.loader.FeatureDefine;

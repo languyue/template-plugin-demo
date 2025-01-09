@@ -16,8 +16,8 @@
 
     <dependencies>
         <dependency>
+            <groupId>io.github.languyue</groupId>
             <artifactId>windy-plugin</artifactId>
-            <groupId>com.zj</groupId>
             <version>1.0.2</version>
         </dependency>
         <dependency>
